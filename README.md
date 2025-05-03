@@ -1,4 +1,4 @@
-# ✈️ Airline Satisfaction Analysis – Assignment 1
+# ✈️ Airline Satisfaction Analysis 
 
 ## 📌 Problem Statement
 Customer satisfaction is critical in the highly competitive airline industry. This project conducts exploratory data analysis (EDA) on a dataset of over 120,000 airline passengers to uncover insights into the factors influencing satisfaction and dissatisfaction. The ultimate goal is to generate actionable recommendations for enhancing customer experience.
@@ -57,4 +57,3 @@ Do **not redistribute** without written consent: aruprdas@gmail.com.
 6. Improve short-haul in-flight experience.
 7. Upgrade digital services for younger demographics.
 
----
