@@ -36,17 +36,13 @@ This project addresses the following key questions:
 Included in this repository as `.ows` file showing the full visual analysis pipeline.
 
 ## 📄 Deliverables
-- `VibhushanRajuGuduri_Assignment1.ppt` – Slides covering:
+– Slides covering:
   - Business problem
   - Data dictionary
   - Graphs and explanation for each analysis question
   - Orange workflow screenshot
   - Final recommendations
-- `VibhushanRajuGuduri_Assignment1.ows` – Orange workflow file
 
-## 🚫 Usage Disclaimer
-This analysis is an academic assignment submitted to **Professor Arup Das**.  
-Do **not redistribute** without written consent: aruprdas@gmail.com.
 
 ## 📌 Final Recommendations
 1. Incentivize young, first-time flyers to return.
